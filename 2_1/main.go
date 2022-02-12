@@ -1,7 +1,7 @@
 package main
 import (
    "fmt"
-   "fileWrite/fileWrite"
+   "github.com/niku-tori/fileWrite/fileWrite"
 )
 func main() {
    fmt.Println("Hello, World!")
